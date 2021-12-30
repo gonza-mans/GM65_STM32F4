@@ -1,0 +1,3 @@
+gm65.c:12:10:gm65_crc	24	static
+gm65.c:32:6:gm65_init	40	static
+gm65.c:60:6:gm65_start_decode	40	static
